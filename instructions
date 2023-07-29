@@ -1,0 +1,9 @@
+## How to run the 
+1. pull from the git
+2. npm install
+3. create a .env file for database. <br/>
+Add: <br/>
+DB_USER=test2
+DB_PASS=IfCdBMeuYL5zCo5V
+
+4. npm start
